@@ -1,0 +1,5 @@
+this is written using write mode 
+this is second line 
+line 1 
+line 2
+line 3
