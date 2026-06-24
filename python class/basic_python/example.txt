@@ -1,0 +1,9 @@
+this is an example file 
+this is the second line 
+this file is made for performing operations from "day10.py"
+this is an appended line 
+this is an appended line 
+this is an appended line 
+this is an appended line 
+this is an appended line 
+this is an appended line 
